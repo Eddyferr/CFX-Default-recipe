@@ -15,5 +15,5 @@ tasks:
 
   # Download default server.cfg
   - action: download_file
-    url: https://raw.githubusercontent.com/tabarra/CFX-Default-recipe/main/server.cfg
+    url: https://raw.githubusercontent.com/Eddyferr/CFX-Default-recipe/main/server.cfg
     path: ./server.cfg
